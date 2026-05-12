@@ -104,8 +104,4 @@ Service nào gọi đến service này?
 
 ## 8. Sơ đồ minh họa
 
-Có thể vẽ bằng Mermaid, draw.io, Ludichart hoặc ảnh chụp sơ đồ.
-
-```mermaid
-flowchart LR
-    ![alt text](image.png)
+![alt text](image-1.png)
